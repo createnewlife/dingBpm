@@ -1,0 +1,4 @@
+2017-08-08 10:02:02,436 ERROR com.alibaba.dingtalk.openapi.utils.Infrastructure:103 - java.lang.reflect.UndeclaredThrowableException
+2017-08-08 10:09:02,571 ERROR topsdk:50 - 2017-08-08 10:09:02.478^_^_dingtalk_^_^dingtalk.corp.role.simplelist^_^192.168.223.100^_^Windows 10^_^21688^_^https://eco.taobao.com/router/rest^_^partner_id=top-sdk-java-20170619&method=dingtalk.corp.role.simplelist&role_id=190128379&v=2.0&session=f0a2376c6948362787435cfc5e961ce8&format=json&timestamp=2017-08-08+10%3A08%3A40^_^java.net.SocketException: Connection reset
+2017-08-08 10:09:02,571 ERROR db.Batchsql:397 - com.taobao.api.ApiException: java.net.SocketException: Connection reset
+2017-08-08 10:09:38,005 ERROR com.alibaba.dingtalk.openapi.utils.Infrastructure:103 - java.lang.reflect.UndeclaredThrowableException
